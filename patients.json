@@ -1,0 +1,42 @@
+{
+  "p001": {
+    "name": "Rani",
+    "gender": "Female",
+    "age": 20,
+    "BMI": 25,
+    "height": 1.62,
+    "weight": 65.6
+  },
+  "p002": {
+    "name": "Vaishnavi",
+    "gender": "Female",
+    "age": 28,
+    "BMI": 25,
+    "height": 1.68,
+    "weight": 70.6
+  },
+  "p003": {
+    "name": "Pankaj",
+    "gender": "Male",
+    "age": 34,
+    "BMI": 57,
+    "height": 1.75,
+    "weight": 174.6
+  },
+  "p004": {
+    "name": "Rahul",
+    "gender": "Male",
+    "age": 27,
+    "BMI": 29,
+    "height": 1.80,
+    "weight": 94.0
+  },
+  "p005": {
+    "name": "Karan",
+    "gender": "Male",
+    "age": 30,
+    "BMI": 45,
+    "height": 1.72,
+    "weight": 133.2
+  }
+}
