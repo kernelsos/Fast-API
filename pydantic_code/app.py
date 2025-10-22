@@ -3,6 +3,8 @@ from typing import List, Dict, Optional
 
 # EmailStr command is not working , use command "pip install "pydantic[email]"""
 
+#Custom data validation and attaching metadata
+
 class Patient(BaseModel):
     name: str = Field(..., max_length=50)
     email: EmailStr
