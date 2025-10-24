@@ -1,0 +1,22 @@
+# Virtual environment folders
+myenv/
+venv/
+.env/
+env/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE/editor folders
+.vscode/
+.idea/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Byte-compiled / temporary files
+*.log
+*.tmp
