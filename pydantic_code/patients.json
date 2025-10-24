@@ -1,0 +1,57 @@
+{
+    "p001": {
+        "name": "Rani",
+        "gender": "Female",
+        "age": 20,
+        "height": 1.62,
+        "weight": 65.6,
+        "bmi": 24.99,
+        "verdict": "Normal"
+    },
+    "p002": {
+        "name": "Vaishnavi",
+        "gender": "Female",
+        "age": 28,
+        "height": 1.68,
+        "weight": 70.6,
+        "bmi": 25.02,
+        "verdict": "Overweight"
+    },
+    "p003": {
+        "name": "Pankaj",
+        "gender": "Male",
+        "age": 34,
+        "height": 1.75,
+        "weight": 174.6,
+        "bmi": 57.02,
+        "verdict": "Obese"
+    },
+    "p004": {
+        "name": "Rahul",
+        "gender": "Male",
+        "age": 27,
+        "height": 1.8,
+        "weight": 94.0,
+        "bmi": 29.01,
+        "verdict": "Overweight"
+    },
+    "p005": {
+        "name": "Karan",
+        "gender": "Male",
+        "age": 30,
+        "height": 1.72,
+        "weight": 133.2,
+        "bmi": 45.02,
+        "verdict": "Obese"
+    },
+    "p009": {
+        "name": "strvvg",
+        "city": "strdg",
+        "age": 5,
+        "gender": "male",
+        "height": 1.0,
+        "weight": 1.0,
+        "bmi": 1.0,
+        "verdict": "Underweight"
+    }
+}
