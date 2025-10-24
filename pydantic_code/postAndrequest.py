@@ -111,7 +111,7 @@ def create_patient(patient: Patient):
 
     # Load the existting data
     data = load_data()
-    patient_id = patient.id.lower()
+    patient_id = patient.id.lower() #there was a mismatch of case in patient id
     
     # Check if the patient already exists
     if patient_id in data:
