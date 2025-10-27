@@ -1,0 +1,92 @@
+{
+    "p001": {
+        "name": "Rani",
+        "city": "Bangalore",
+        "age": 20,
+        "gender": "Female",
+        "height": 1.62,
+        "weight": 65.6,
+        "BMI": 25.6,
+        "verdict": "Normal"
+    },
+    "p002": {
+        "name": "Arjun",
+        "city": "Mumbai",
+        "age": 25,
+        "gender": "Male",
+        "height": 1.75,
+        "weight": 68.0,
+        "BMI": 22.2,
+        "verdict": "Normal"
+    },
+    "p003": {
+        "name": "Priya",
+        "city": "Chennai",
+        "age": 30,
+        "gender": "Female",
+        "height": 1.58,
+        "weight": 72.0,
+        "BMI": 28.8,
+        "verdict": "Overweight"
+    },
+    "p004": {
+        "name": "Rahul",
+        "city": "Delhi",
+        "age": 27,
+        "gender": "Male",
+        "height": 1.8,
+        "weight": 95.0,
+        "BMI": 29.3,
+        "verdict": "Overweight"
+    },
+    "p005": {
+        "name": "Sneha",
+        "city": "Pune",
+        "age": 22,
+        "gender": "Female",
+        "height": 1.68,
+        "weight": 54.0,
+        "BMI": 19.1,
+        "verdict": "Normal"
+    },
+    "p006": {
+        "name": "Vikram",
+        "city": "Hyderabad",
+        "age": 35,
+        "gender": "Male",
+        "height": 1.72,
+        "weight": 105.0,
+        "BMI": 35.5,
+        "verdict": "Obese"
+    },
+    "p007": {
+        "name": "Neha",
+        "city": "Kolkata",
+        "age": 28,
+        "gender": "Female",
+        "height": 1.6,
+        "weight": 48.0,
+        "BMI": 18.8,
+        "verdict": "Normal"
+    },
+    "p008": {
+        "name": "Karan",
+        "city": "Ahmedabad",
+        "age": 40,
+        "gender": "Male",
+        "height": 1.7,
+        "weight": 77.0,
+        "BMI": 26.6,
+        "verdict": "Overweight"
+    },
+    "p009": {
+        "name": "Divya",
+        "city": "Jaipur",
+        "age": 24,
+        "gender": "Female",
+        "height": 1.55,
+        "weight": 43.0,
+        "BMI": 17.9,
+        "verdict": "Underweight"
+    }
+}
